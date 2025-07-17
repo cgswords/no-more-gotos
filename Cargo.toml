@@ -1,0 +1,9 @@
+[package]
+name = "nmg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fixedbitset = "0.5.7"
+once_cell = "1.21.3"
+petgraph = "0.8.2"
